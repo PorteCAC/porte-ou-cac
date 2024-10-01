@@ -1,0 +1,36 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 26 Sep 2024 14:21:53 at https://gov.portal-cac.com/cac +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://gov.portal-cac.com/cac -O1 "C:\Users\User\Desktop\html porte de arma\html porte de arma" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:22:08	Error: 	"Not Found" (404) at link https://gov.portal-cac.com/cac/js/fbevents.js (from https://gov.portal-cac.com/cac/)
+14:22:18	Error: 	"Not Found" (404) at link https://gov.portal-cac.com/cac/a (from https://connect.facebook.net/en_US/fbevents.js)
+14:22:18	Error: 	"Not Found" (404) at link https://gov.portal-cac.com/cac/POST (from https://connect.facebook.net/en_US/fbevents.js)
+14:22:18	Error: 	"Not Found" (404) at link https://gov.portal-cac.com/cac/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+14:22:19	Error: 	"Not Found" (404) at link https://gov.portal-cac.com/cac/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+14:22:19	Error: 	"Not Found" (404) at link https://gov.portal-cac.com/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+14:22:19	Error: 	"Not Found" (404) at link https://gov.portal-cac.com/cac/GET (from https://gov.portal-cac.com/cac/js/player.js)
+14:22:26	Error: 	"Not Found" (404) at link https://gov.portal-cac.com/pages/verificar (from https://gov.portal-cac.com/cac/registro/)
+14:22:26	Error: 	"Not Found" (404) at link https://gov.portal-cac.com/cac/registro/a (from https://gov.portal-cac.com/cac/registro/js/fbevents.js)
+14:22:26	Error: 	"Not Found" (404) at link https://gov.portal-cac.com/cac/registro/POST (from https://gov.portal-cac.com/cac/registro/js/fbevents.js)
+14:22:26	Error: 	"Not Found" (404) at link https://gov.portal-cac.com/cac/registro/schema.org/ (from https://gov.portal-cac.com/cac/registro/js/fbevents.js)
+14:22:26	Error: 	"Not Found" (404) at link https://gov.portal-cac.com/cac/registro/b.resolvedLink (from https://gov.portal-cac.com/cac/registro/js/fbevents.js)
+14:22:28	Error: 	"Not Found" (404) at link https://gov.portal-cac.com/cac/registro/endereco/js/fbevents.js (from https://gov.portal-cac.com/cac/registro/endereco/)
+14:23:19	Error: 	"Not Found" (404) at link https://gov.portal-cac.com/cac/registro/endereco/url_string (from https://gov.portal-cac.com/cac/registro/endereco/)
+14:23:19	Warning: 	Retry after error -4 (No data (connection closed)) at link https://gov.portal-cac.com/cac/registro/endereco/fonts/fa-brands-400_1.eot (from https://gov.portal-cac.com/cac/registro/endereco/css/all.min_1.css)
+14:23:20	Warning: 	Retry after error -4 (No data (connection closed)) at link https://gov.portal-cac.com/cac/registro/endereco/fonts/fa-solid-900_1.woff2 (from https://gov.portal-cac.com/cac/registro/endereco/css/all.min_1.css)
+14:23:21	Error: 	"Not Found" (404) at link https://gov.portal-cac.com/cac/registro/quiz/js/fbevents.js (from https://gov.portal-cac.com/cac/registro/quiz/)
+14:23:21	Warning: 	Retry after error -4 (No data (connection closed)) at link https://gov.portal-cac.com/cac/registro/quiz/js/pixel.js (from https://gov.portal-cac.com/cac/registro/quiz/)
+14:23:34	Error: 	"Not Found" (404) at link https://gov.portal-cac.com/cac/registro/quiz/url_string (from https://gov.portal-cac.com/cac/registro/quiz/)
+14:23:34	Warning: 	Retry after error -4 (No data (connection closed)) at link https://gov.portal-cac.com/cac/registro/quiz/js/JsBarcode.all.min.js (from https://gov.portal-cac.com/cac/registro/quiz/)
+14:23:36	Error: 	"Not Found" (404) at link https://gov.portal-cac.com/cac/registro/psicotecnico/js/fbevents.js (from https://gov.portal-cac.com/cac/registro/psicotecnico/)
+14:24:07	Error: 	"Not Found" (404) at link https://gov.portal-cac.com/cac/registro/psicotecnico/url_string (from https://gov.portal-cac.com/cac/registro/psicotecnico/)
+14:24:07	Warning: 	Retry after error -4 (No data (connection closed)) at link https://gov.portal-cac.com/cac/registro/psicotecnico/fonts/fa-brands-400_1.woff (from https://gov.portal-cac.com/cac/registro/psicotecnico/css/all.min_1.css)
+14:24:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://gov.portal-cac.com/cac/registro/aprovado/js/fbevents.js (from https://gov.portal-cac.com/cac/registro/aprovado/)
+14:24:11	Error: 	"Not Found" (404) at link https://gov.portal-cac.com/cac/registro/aprovado/js/fbevents.js (from https://gov.portal-cac.com/cac/registro/aprovado/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 18 seconds : 160 links scanned, 134 files written (34839408 bytes overall) [24755322 bytes received at 179386 bytes/sec], 16050917 bytes transferred using HTTP compression in 105 files, ratio 36%, 5.6 requests per connection
+(19 errors, 6 warnings, 0 messages)
